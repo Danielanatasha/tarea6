@@ -1,8 +1,8 @@
 ## Tarea 6 de Bioinformatica: Alelos 
 
 # DATOS  
-Daniela Endara
-Grupo 2
++ Daniela Endara
++ Grupo 2
 
 
 ## Actividades de la tarea 6 
